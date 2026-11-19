@@ -1,0 +1,116 @@
+{
+  "emails": [
+    {
+      "email_id": "1",
+      "sender": "no-reply@dummy.com",
+      "recipients": [
+        "recipent1.com"
+      ],
+      "cc": [],
+      "subject": "Aadvdyzon - Q4 2025 advisory-fee...",
+      "content": "Your Q2 2025 adviso...",
+      "timestamp": 1751893500.0,
+      "folder": "INBOX",
+      "parent_id": null,
+      "thread_id": null,
+      "is_read": true,
+      "attachments": {}
+    },
+    {
+      "email_id": "2",
+      "sender": "billing@dummy.com",
+      "recipients": [
+        "recipent1.com"
+      ],
+      "cc": [],
+      "subject": "Your Claude Pro receipt - July 2025",
+      "content": "Thank you for your Claude Pro subscription. Invoice ANTH-2025-0702: we charged 20.00 USD to the card ending 6620 on 2025-07-02 for the July 2025 billing period. This receipt is for your records.",
+      "timestamp": 1751473200.0,
+      "folder": "INBOX",
+      "parent_id": null,
+      "thread_id": null,
+      "is_read": true,
+      "attachments": {}
+    },
+    {
+      "email_id": "3",
+      "sender": "recipent5.com",
+      "recipients": [
+        "recipent1.com"
+      ],
+      "cc": [],
+      "subject": "July op",
+      "content": "Hello \n\nour monthly check-in... \n\nrecipent5.com",
+      "timestamp": 1752183600.0,
+      "folder": "INBOX",
+      "parent_id": null,
+      "thread_id": "thread1",
+      "is_read": true,
+      "attachments": {}
+    },
+    {
+      "email_id": "4",
+      "sender": "recipent1.com",
+      "recipients": [
+        "recipent1.com"
+      ],
+      "cc": [],
+      "subject": "Re: July op",
+      "content": "Hi recipent5.com,\n\nThanks recipent5.com. Nothing pressing here either... \n\nrecipent1.com",
+      "timestamp": 1752186300.0,
+      "folder": "SENT",
+      "parent_id": "thread 1",
+      "thread_id": "thread 1",
+      "is_read": true,
+      "attachments": {}
+    },
+    {
+      "email_id": "5",
+      "sender": "recipent2.com",
+      "recipients": [
+        "recipent1.com"
+      ],
+      "cc": [],
+      "subject": "Website refresh",
+      "content": "Hi recipent1.com, circling back on the light refresh... \n\nrecipent2.com",
+      "timestamp": 1752597000.0,
+      "folder": "INBOX",
+      "parent_id": null,
+      "thread_id": "thread 2",
+      "is_read": true,
+      "attachments": {}
+    },
+    {
+      "email_id": "6",
+      "sender": "recipent1.com",
+      "recipients": [
+        "recipent2.com"
+      ],
+      "cc": [],
+      "subject": "Re: Website refresh",
+      "content": "Hi recipent2.com, yes, keep it strictly referral-only,... \n\nrecipent1.com",
+      "timestamp": 1752678600.0,
+      "folder": "SENT",
+      "parent_id": "thread 2",
+      "thread_id": "thread 2",
+      "is_read": true,
+      "attachments": {}
+    },
+    {
+      "email_id": "7",
+      "sender": "recipent1.com",
+      "recipients": [
+        "recipent3.com"
+      ],
+      "cc": [],
+      "subject": "Q4 2025 rebalance",
+      "content": "Hi recipent3.com, drift and tax-lot analysis...  \n\nrecipent1.com",
+      "timestamp": 1757697600.0,
+      "folder": "SENT",
+      "parent_id": null,
+      "thread_id": "thread 4",
+      "is_read": true,
+      "attachments": {}
+    }
+  ]
+}

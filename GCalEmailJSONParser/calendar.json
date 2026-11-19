@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "event_id": "1",
+      "title": "Weekly cal triage (Sunday)",
+      "start_datetime": 1751846400.0,
+      "end_datetime": 1751849100.0,
+      "tag": "ops",
+      "description": "Sunday triage for the week of Jul 7...",
+      "location": "Work office",
+      "attendees": [
+        "recipent1.com"
+      ],
+      "recurrence": "RRULE:FREQ=WEEKLY;BYDAY=SU"
+    },
+    {
+      "event_id": "2",
+      "title": "Monthly TD and Portfolio...",
+      "start_datetime": 1751900400.0,
+      "end_datetime": 1751905800.0,
+      "tag": "work",
+      "description": "Reconcile Portfolio...",
+      "location": "Zoom",
+      "attendees": [
+        "recipent1.com",
+        "recipent3.com"
+      ],
+      "recurrence": "RRULE:FREQ=MONTHLY"
+    },
+    {
+      "event_id": "3",
+      "title": "Company rep monthly (recipent4.com)",
+      "start_datetime": 1752177600.0,
+      "end_datetime": 1752179400.0,
+      "tag": "work",
+      "description": "Monthly meet with recipent4.com",
+      "location": "Zoom",
+      "attendees": [
+        "recipent1.com",
+        "recipent4.com"
+      ],
+      "recurrence": "RRULE:FREQ=MONTHLY"
+    },
+    {
+      "event_id": "4",
+      "title": "Weekly cal triage (Sunday)",
+      "start_datetime": 1752451200.0,
+      "end_datetime": 1752453900.0,
+      "tag": "ops",
+      "description": "Sunday triage for the week of Jul 14...",
+      "location": "Workoffice",
+      "attendees": [
+        "Weekly cal triage (Sunday)"
+      ],
+      "recurrence": "RRULE:FREQ=WEEKLY;BYDAY=SU"
+    },
+    {
+      "event_id": "5",
+      "title": "Weekly cal triage (Sunday)",
+      "start_datetime": 1753056000.0,
+      "end_datetime": 1753058700.0,
+      "tag": "ops",
+      "description": "Sunday triage for the week of Jul 21...",
+      "location": "Work office",
+      "attendees": [
+        "recipient1.com"
+      ],
+      "recurrence": "RRULE:FREQ=WEEKLY;BYDAY=SU"
+    },
+    {
+      "event_id": "6",
+      "title": "Weekly cal triage (Sunday)",
+      "start_datetime": 1753660800.0,
+      "end_datetime": 1753663500.0,
+      "tag": "ops",
+      "description": "Sunday triage for the week of Jul 28...",
+      "location": "Work office",
+      "attendees": [
+        "recipient1.com"
+      ],
+      "recurrence": "RRULE:FREQ=WEEKLY;BYDAY=SU"
+    }
+  ]
+}
